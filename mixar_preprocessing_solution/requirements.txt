@@ -1,0 +1,7 @@
+numpy
+trimesh
+open3d
+matplotlib
+scipy
+tqdm
+
